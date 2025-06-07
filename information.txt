@@ -1,0 +1,11 @@
+1. overflow scroll ke liye hota hai
+ * hidden isisliye rakhe kyuki ni saab ko scroll nahi karna 
+ apan main content ko scroll karenge toh main vale div me lagayenge
+
+
+2. flex 1 ka matlab hai ki voh puri
+space le lega jitni baki hai 
+yane sidebar aur musicplayer ki jagah chod kar
+
+3. music player ko position fixed di hai
+kyuki voh fixed hai apan scroll karenge tab bhi
